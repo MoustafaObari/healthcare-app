@@ -40,3 +40,5 @@ This feature provides patients with personalized clinic recommendations and appo
 ## Author
 
 Moustafa Obari
+# healthcare-app
+Healthcare App with doctor ratings and personalized clinic recommendations.
